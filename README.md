@@ -19,7 +19,9 @@ Reinforcement learning is a very interesting machine learning paradigm which I w
 <p align="center">
 <img src="figures/best_strategy.png" alt="blackjack best strategy" />
 </p>
+
 ## Running trainings
+
 ### Arguments:
 | Argument &nbsp; &nbsp; &nbsp; &nbsp; | Description | Values |
 | :---         |     :---      |          :--- |
